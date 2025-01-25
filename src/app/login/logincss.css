@@ -1,0 +1,21 @@
+.loginmenu{
+    display: flex;
+    gap: 2rem;
+}
+.loginmenu li{
+    list-style: none;
+    text-decoration: none;
+}
+.loginmenu li a{
+    text-decoration: none;
+}
+.loginmenu h4{
+   margin: 0;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.main-content{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: tomato;
+text-align: center;
+}
